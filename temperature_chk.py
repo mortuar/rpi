@@ -3,7 +3,7 @@
 This script would check temperature and in case is above tresshold will send warning over email.
 
 """
-__author__ = "morte (Michal Hutsky)"
+__author__ = "mortuar"
 
 import os
 import re
